@@ -1,0 +1,13 @@
+name: Petpal.ai
+options:
+  bundleIdPrefix: com.yourname
+targets:
+  Petpal.ai:
+    type: application
+    platform: iOS
+    sources:
+      - Petpal.ai
+    settings:
+      base:
+        INFOPLIST_FILE: Petpal.ai/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.yourname.Petpal.ai

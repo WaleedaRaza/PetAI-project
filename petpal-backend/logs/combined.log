@@ -1,0 +1,5 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-06-10T16:05:23.568Z"}
+{"level":"info","message":"GET /api/forum/reddit/posts?subreddit=pets","timestamp":"2025-06-10T16:05:48.742Z"}
+{"level":"info","message":"GET /api/forum/reddit/posts?subreddit=pets","timestamp":"2025-06-10T16:07:40.123Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-06-10T16:07:58.954Z"}
+{"level":"info","message":"GET /api/forum/reddit/posts?subreddit=pets","timestamp":"2025-06-10T16:08:02.359Z"}

@@ -1,0 +1,7 @@
+CREATE TABLE tracking_metrics (
+  id SERIAL PRIMARY KEY,
+  pet_id INT REFERENCES pets(id),
+  name VARCHAR(255) NOT NULL,
+  value VARCHAR(255),
+  timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
